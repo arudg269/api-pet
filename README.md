@@ -1,2 +1,4 @@
 # api-pet
-api para gerenciar pet
+api para gerenciar pets
+
+praticando frameworks beck-end
